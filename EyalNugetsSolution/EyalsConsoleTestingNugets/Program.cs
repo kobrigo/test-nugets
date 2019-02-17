@@ -16,7 +16,7 @@ namespace EyalsConsoleTestingNugets
             eyalLibClass1.Foo("text for Foo in EyalLibClass1");
 
             EyalLibClass2 eyalLibClass2 = new EyalLibClass2();
-            eyalLibClass1.Foo("text for Foo in EyalLibClass2");
+            eyalLibClass2.Foo("text for Foo in EyalLibClass2");
 
             Console.ReadLine();
         }

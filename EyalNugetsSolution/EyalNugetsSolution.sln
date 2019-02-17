@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EyalNugetLib2", "EyalNugetL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EyalsConsoleTestingNugets", "EyalsConsoleTestingNugets\EyalsConsoleTestingNugets.csproj", "{A345B6D8-B4CF-4D38-9783-C6CE89A2F42C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EyalNugetLib3", "EyalNugetLib3\EyalNugetLib3.csproj", "{E5DC708D-C646-4ABF-88EE-46A0F70D3209}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EyalNugetLib3Standard", "EyalNugetLib3Standard\EyalNugetLib3Standard.csproj", "{D35E56E7-E9A2-4668-9CA5-BB3B8CC216EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{A345B6D8-B4CF-4D38-9783-C6CE89A2F42C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A345B6D8-B4CF-4D38-9783-C6CE89A2F42C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A345B6D8-B4CF-4D38-9783-C6CE89A2F42C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5DC708D-C646-4ABF-88EE-46A0F70D3209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5DC708D-C646-4ABF-88EE-46A0F70D3209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5DC708D-C646-4ABF-88EE-46A0F70D3209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5DC708D-C646-4ABF-88EE-46A0F70D3209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D35E56E7-E9A2-4668-9CA5-BB3B8CC216EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D35E56E7-E9A2-4668-9CA5-BB3B8CC216EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D35E56E7-E9A2-4668-9CA5-BB3B8CC216EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D35E56E7-E9A2-4668-9CA5-BB3B8CC216EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
